@@ -1,0 +1,1 @@
+let twoAdder = x => x + 2;
