@@ -1,3 +1,3 @@
-let divide = function(){
-  
+let divide = function(x){
+  return x / 100;
 }
